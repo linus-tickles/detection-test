@@ -1,0 +1,12 @@
+{
+  "name": "test-detection",
+  "version": "1.0.1",
+  "description": "test npm secrets detection",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "environments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
